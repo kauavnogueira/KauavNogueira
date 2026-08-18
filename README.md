@@ -19,7 +19,7 @@ Olá! Me chamo Kauã Victor Nogueira, tenho 20 anos e sou natural de Goiás. Apa
 **Linguagens & Frameworks**
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,)](https://skillicons.dev)
 
 
 **Databases**
