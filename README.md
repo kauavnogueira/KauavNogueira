@@ -1,7 +1,7 @@
 <div align="center">
 
 # Kauã Nogueira
-### Front-End · JavaScript / HTML e CSS 
+### FullStack · TypeScript / React / Nodejs  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-nogueira-2476ab39b/?skipRedirect=true)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauav9197@gmail.com)
