@@ -34,16 +34,7 @@ Olá! Me chamo Kauã Victor Nogueira, tenho 20 anos e sou natural de Goiás. Apa
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauavnogueira&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauavnogueira&layout=compact&theme=tokyonight" />
-</p>
-
-          
+---      
 
 ## 🎓 Educação
 
